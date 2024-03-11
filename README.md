@@ -6,7 +6,7 @@
    
 </head>
 <body>
-    <div class="container">
+    <div>
         <header>
             <h1>Vipin Nagar</h1>
         </header>
