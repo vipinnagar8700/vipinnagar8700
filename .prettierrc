@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "files": ["*.svg", "*.md"],
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
