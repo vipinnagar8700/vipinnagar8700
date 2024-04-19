@@ -6,11 +6,11 @@
    
 </head>
 <body>
-    <div>
-        <header>
+   
+        
             <h1>Vipin Nagar</h1>
-        </header>
+        <p>MERN STACK & REACT NATIVE APP DEVELOPER ANDROID & IOS</p>
        
-    </div>
+  
 </body>
 </html>
