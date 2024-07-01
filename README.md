@@ -55,7 +55,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
 <a href="#" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vipin Nagar" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Vipin Nagar" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="Vipin Nagar" /></a>
+<a href="https://stackoverflow.com/users/22526132/vipin-nagar" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Stack_Overflow/Stack_Overflow-Logo.wine.svg" alt="Vipin Nagar" /></a>
 
 </div>
 <br/>
