@@ -1,10 +1,10 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=33FF33&center=true&vCenter=true&width=600&lines=Hi,+I'm+Rahul+Sharma;" alt="Typing SVG"/>
+        Hlo My Self Vipin Nagar
     </h1>
 </div>
 
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vipin Nagar</h1>
+
 <p align="center"> -->
 <h3>I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.</h3>
 ✔ I’m currently learning about <b>Flutter</b> <br>
