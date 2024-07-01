@@ -27,7 +27,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/devsmitra?tab=achievements">
+  <a href="[https://github.com/devsmitra?tab=achievements](https://github.com/vipinnagar8700)">
     <img  width="100%" src="https://github-profile-trophy.vercel.app/?username=devsmitra&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
@@ -46,14 +46,14 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/devsmitra">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=devsmitra&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="[https://github-readme-stats.vercel.app/api?username=devsmitra&count_private=true&show_icons=true&theme=nightowl](https://github.com/vipinnagar8700)" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devsmitra">
+        <a href="https://github.com/vipinnagar8700">
           <img align="center" src="https://streak-stats.demolab.com?user=devsmitra&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
@@ -63,7 +63,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/devsmitra/Awesome-Dev-Portfolios">
+         <a href="https://github.com/vipinnagar8700">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
@@ -71,7 +71,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devsmitra">
+           <a href="https://github.com/vipinnagar8700">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=devsmitra&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
@@ -81,7 +81,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
    <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/devsmitra">
+          <a href="https://github.com/vipinnagar8700">
          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devsmitra&layout=compact&langs_count=8&theme=algolia"/>
         </a>
       </p>
