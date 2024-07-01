@@ -40,22 +40,15 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
 
 
 
-[![ReadMe Card](https://github.com/vipinnagar8700/GroFresh-E-commerce)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=javascript-quick-functions)](https://github.com/devsmitra/javascript-quick-functions)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=func-prefix-matching)](https://github.com/devsmitra/func-prefix-matching)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=Express-App-Using-TS-Decorator)](https://github.com/devsmitra/Express-App-Using-TS-Decorator)
-
-<br/>
-
 <!--Contact Section-->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/rahul-sharma-18b8b374/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rahul LinkedIn"/></a>
-<a href="https://stackoverflow.com/users/8879527/rahul-sharma?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Rahul Sharma(DevsMitra)" /></a>
-<a href="https://devsmitra.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Rahul Sharma(DevsMitra)" /></a>
-<a href="https://dev.to/devsmitra" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Rahul Sharma(DevsMitra)" /></a>
-<a href="https://codesandbox.io/u/DevsMitra" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandbox: Rahul Sharma(DevsMitra)" /></a>
-<a href="https://stackblitz.com/@devsmitra" target="blank">Stackblitz</a>
+<a href="https://www.linkedin.com/in/vipin-nagar-51369a22a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vipin LinkedIn"/></a>
+<a href="#" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vipin Nagar" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Vipin Nagar" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="Vipin Nagar" /></a>
+
 </div>
 <br/>
 
