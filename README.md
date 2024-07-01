@@ -30,12 +30,13 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
   <a href="[https://github.com/devsmitra?tab=achievements](https://github.com/vipinnagar8700)">
     <img  width="100%" src="https://github-profile-trophy.vercel.app/?username=devsmitra&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
-    <h2 align="center">🏆 Gɪᴛʜᴜʙ Achivements 🏆</h2>
-     <a href="[https://github.com/devsmitra?tab=achievements](https://github.com/vipinnagar8700)">
-    <img  width="25%"  src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Trophies">
-          <img  width="25%"  src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="GitHub Trophies">
-       
+   <h2 align="center">🏆 Gɪᴛʜᴜʙ Achievements 🏆</h2>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/vipinnagar8700">
+    <img width="25%" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Trophies">
+    <img width="25%" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="GitHub Trophies">
   </a>
+</div>
     
 </p>
 <br />
