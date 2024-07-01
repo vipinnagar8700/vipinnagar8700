@@ -31,7 +31,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
     <img  width="100%" src="https://github-profile-trophy.vercel.app/?username=devsmitra&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
      <a href="[https://github.com/devsmitra?tab=achievements](https://github.com/vipinnagar8700)">
-    <img  width="30%" height="30% src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Trophies">
+    <img  width="30%"  src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Trophies">
   </a>
     
 </p>
