@@ -6,12 +6,20 @@
 
 
 
-<h3>I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.</h3>
-✔ I’m currently learning about <b>Flutter</b> <br>
-✔ I’m looking to collaborate with any <b>Open-Source Javascript Project</b><br>
-✔ Ask me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact: I Always try to learn something new and then sleep till it stores in the brain_ 😎<br>
-<br />
+<h3>About Me
+
+
+</h3>
+Hi there! I'm a passionate and dedicated developer with expertise in the MERN stack and mobile application development for both iOS and Android. With a strong foundation in full-stack web development and a knack for creating intuitive and dynamic mobile apps, I strive to deliver high-quality, user-centric solutions. <br>
+
+Tech Stack
+MERN Stack: MongoDB, Express.js, React.js, Node.js
+Mobile Development: React Native, Swift, Kotlin
+Other Skills: JavaScript, TypeScript, RESTful APIs, GraphQL, Git, Docker
+Projects
+Web Applications: Built several full-stack web applications using the MERN stack, focusing on performance, scalability, and a seamless user experience.
+Mobile Apps: Developed cross-platform mobile applications with React Native and native apps for iOS and Android, ensuring smooth functionality and engaging interfaces.
+
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
