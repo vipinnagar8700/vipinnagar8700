@@ -32,6 +32,8 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
   </a>
      <a href="[https://github.com/devsmitra?tab=achievements](https://github.com/vipinnagar8700)">
     <img  width="25%"  src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Trophies">
+          <img  width="25%"  src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="GitHub Trophies">
+       
   </a>
     
 </p>
