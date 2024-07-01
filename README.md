@@ -11,12 +11,16 @@
 
 </h3>
 Hi there! I'm a passionate and dedicated developer with expertise in the MERN stack and mobile application development for both iOS and Android. With a strong foundation in full-stack web development and a knack for creating intuitive and dynamic mobile apps, I strive to deliver high-quality, user-centric solutions. <br>
+<h3>Tech Stack
 
-Tech Stack
+
+</h3>
+
 MERN Stack: MongoDB, Express.js, React.js, Node.js
 Mobile Development: React Native, Swift, Kotlin
 Other Skills: JavaScript, TypeScript, RESTful APIs, GraphQL, Git, Docker
-Projects
+
+<h3> Projects</h3>
 Web Applications: Built several full-stack web applications using the MERN stack, focusing on performance, scalability, and a seamless user experience.
 Mobile Apps: Developed cross-platform mobile applications with React Native and native apps for iOS and Android, ensuring smooth functionality and engaging interfaces.
 
