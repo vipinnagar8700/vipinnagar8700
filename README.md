@@ -53,7 +53,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
 <div align="center">
 <a href="https://www.linkedin.com/in/vipin-nagar-51369a22a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vipin LinkedIn"/></a>
 <a href="#" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vipin Nagar" /></a>
+<a href="#" target="blank"><img align="center" src="[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@vipinnagar8700)" alt="Vipin Nagar" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Vipin Nagar" /></a>
 <a href="https://stackoverflow.com/users/22526132/vipin-nagar" target="blank"><img width="10%" align="center" src="https://www.logo.wine/a/logo/Stack_Overflow/Stack_Overflow-Logo.wine.svg" alt="Vipin Nagar" /></a>
 
