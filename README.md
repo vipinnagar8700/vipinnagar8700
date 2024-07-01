@@ -40,7 +40,7 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=micro)](https://github.com/devsmitra/micro)
+[![ReadMe Card](https://github.com/vipinnagar8700/GroFresh-E-commerce)]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=javascript-quick-functions)](https://github.com/devsmitra/javascript-quick-functions)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=func-prefix-matching)](https://github.com/devsmitra/func-prefix-matching)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devsmitra&repo=Express-App-Using-TS-Decorator)](https://github.com/devsmitra/Express-App-Using-TS-Decorator)
@@ -61,115 +61,4 @@ Mobile Apps: Developed cross-platform mobile applications with React Native and 
 
 
 
-<h2 align="center">📖 Read My Blogs 📖</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/javascript-string-methods-a-cheat-sheet-for-developer-4kbk">Javascript String Methods: A Cheat Sheet for Developer</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/solidjs-and-reactjs-difference-and-comparison-1p3e">Solidjs and React.js - Difference and Comparison</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/getting-started-with-solidjs-a-beginners-guide-5af4">Getting started with SolidJs – A Beginner's Guide</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/what-is-pyscript-and-why-should-you-care-10f">What is PyScript? And Why Should You Care?</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/whats-new-in-the-nodejs-v18x-release-43f2">What's new in the Node.js v18.x release?</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/how-to-cancel-javascript-api-request-with-abortcontroller-36cm">How to cancel Javascript API request with AbortController</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3">13 Typescript Utility: A Cheat Sheet for Developer</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769">28 Javascript Array Methods: A Cheat Sheet for Developer</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-2bff">React best practices and patterns to reduce code - Part 1</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3">React best practices and patterns to reduce code - Part 2</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1">React best practices and patterns to reduce code - Part 3</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/how-to-solve-rest-api-routing-problem-with-decorators-5b3n">How to solve REST API routing problem with decorators?</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/the-complete-guide-to-covert-image-to-text-and-text-to-speech-with-javascript-15gp">How to Get Started with Javascript Audiobook</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2">The Complete Guide to Micro Frontend with React.js for 2022</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom">How to create a custom ESlint plugin</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://vocal.media/education/5-javascript-interview-questions-and-answers-for-beginners">5 Javascript Interview Questions and Answers for Beginners</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/javascript-short-reusable-functions-everyone-will-always-need-22oc">Javascript short reusable functions everyone will always need</a>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2">The Complete Guide to Micro Frontend with React.js for 2022</a>
-      </p>
-    </td>
-  </tr>
-</table>
