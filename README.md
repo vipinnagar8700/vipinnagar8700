@@ -1,11 +1,11 @@
 <div align="center">
-    <h1>
+    <h1 style="colorr:red">
         Hlo My Self Vipin Nagar
     </h1>
 </div>
 
 
-<p align="center"> -->
+
 <h3>I'm technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.</h3>
 ✔ I’m currently learning about <b>Flutter</b> <br>
 ✔ I’m looking to collaborate with any <b>Open-Source Javascript Project</b><br>
