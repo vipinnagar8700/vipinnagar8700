@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="colorr:red">
-        Hlo My Self Vipin Nagar
+        Vipin Nagar 
     </h1>
 </div>
 
