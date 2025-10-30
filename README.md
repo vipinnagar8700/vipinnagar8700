@@ -27,14 +27,14 @@
 %%{init: {'theme':'dark'}}%%
 timeline
     title My Development Journey
-    March 2023 : Started as Full Stack Developer
+    March 2022 : Started as Full Stack Developer
                : MERN Stack & Mobile Development
-    2023 : Built Multiple Web Applications
+    2022 : Built Multiple Web Applications
          : Developed iOS & Android Apps
     2024 : Scaled to Enterprise Solutions
          : Advanced Architecture & DevOps
     2025 : Continuing Innovation
-         : 2+ Years of Excellence
+         : 3+ Years of Excellence
 ```
 
 </div>
@@ -43,7 +43,7 @@ timeline
 
 | 📅 Started | 🎯 Focus Areas | 💪 Experience |
 |-----------|---------------|---------------|
-| March 2023 | MERN Stack, iOS, Android | 2+ Years |
+| March 2022 | MERN Stack, iOS, Android | 3+ Years |
 
 </div>
 
