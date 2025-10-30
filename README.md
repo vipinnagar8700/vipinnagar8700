@@ -19,14 +19,33 @@
 
 ---
 
-## 📅 Experience Timeline
+## 💼 Professional Journey
 
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+timeline
+    title My Development Journey
+    March 2023 : Started as Full Stack Developer
+               : MERN Stack & Mobile Development
+    2023 : Built Multiple Web Applications
+         : Developed iOS & Android Apps
+    2024 : Scaled to Enterprise Solutions
+         : Advanced Architecture & DevOps
+    2025 : Continuing Innovation
+         : 2+ Years of Excellence
 ```
-🚀 March 2023 - Present | 2+ Years of Professional Development
-   ├── Full Stack Development (MERN)
-   ├── Mobile App Development (iOS & Android)
-   └── Building Scalable Solutions
-```
+
+</div>
+
+<div align="center">
+
+| 📅 Started | 🎯 Focus Areas | 💪 Experience |
+|-----------|---------------|---------------|
+| March 2023 | MERN Stack, iOS, Android | 2+ Years |
+
+</div>
 
 ---
 
