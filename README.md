@@ -57,7 +57,7 @@ Hi there! I'm a passionate and dedicated developer with expertise in the **MERN 
 - 🌱 Constantly learning and exploring new technologies
 - 💡 Love building products that solve real-world problems
 - 🎯 Focused on writing clean, maintainable, and scalable code
-- 📱 Published 9+ apps on Google Play Store and Apple App Store
+- 📱 Published 15+ apps on Google Play Store and Apple App Store
 
 ---
 
