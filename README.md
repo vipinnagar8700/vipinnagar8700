@@ -165,7 +165,7 @@ Patient-facing wellness app for booking holistic healing therapies. Connects use
 
 iOS version of the healer app with native performance and seamless UX for wellness consultants.
 
-**Tech:** Swift, UIKit, CoreData
+**Tech:**  React Native, Redux, Firebase, Node.js
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">](https://apps.apple.com/us/app/aaranya-wellness-healer/id6747748589)
 
@@ -177,7 +177,7 @@ iOS version of the healer app with native performance and seamless UX for wellne
 
 Patient app on iOS for booking natural healing therapies at workplace.
 
-**Tech:** Swift, Firebase, REST API
+**Tech:** React Native, Redux, Firebase, Node.js
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">](https://apps.apple.com/us/app/aaranya-wellness/id6747888428)
 
@@ -189,7 +189,7 @@ Patient app on iOS for booking natural healing therapies at workplace.
 
 Enhanced healer management app with advanced features for therapy tracking.
 
-**Tech:** Swift, SwiftUI, CloudKit
+**Tech:**  React Native, Redux, Firebase, Node.js
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">](https://apps.apple.com/us/app/aaranya-healer/id6752554015)
 
