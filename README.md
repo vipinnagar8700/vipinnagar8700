@@ -57,6 +57,7 @@ Hi there! I'm a passionate and dedicated developer with expertise in the **MERN 
 - 🌱 Constantly learning and exploring new technologies
 - 💡 Love building products that solve real-world problems
 - 🎯 Focused on writing clean, maintainable, and scalable code
+- 📱 Published 9+ apps on Google Play Store and Apple App Store
 
 ---
 
@@ -106,57 +107,193 @@ Hi there! I'm a passionate and dedicated developer with expertise in the **MERN 
 
 ---
 
-
-## 📱 Mobile Applications
+## 📱 Published Mobile Applications
 
 <div align="center">
 
-### Cross-platform and native mobile apps for iOS & Android with smooth functionality and engaging interfaces
+### 🏥 Healthcare & Wellness Apps
 
 </div>
 
 <table>
 <tr>
+<td width="50%">
+
+### 🍃 [Aaranya Wellness - Healer](https://play.google.com/store/apps/details?id=com.aaranyawellnessuser)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Comprehensive wellness platform for healers providing non-invasive therapies using Acupressure and Sujok. Manages appointments, client records, and therapy sessions for 300+ wellness consultants.
+
+**Tech Stack:** React Native, Redux, Firebase, Node.js
+
+**Key Features:**
+- Appointment scheduling & management
+- Client health tracking
+- Therapy session records
+- Real-time notifications
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.aaranyawellnessuser)
+
+</td>
+<td width="50%">
+
+### 🍃 [Aaranya Wellness](https://play.google.com/store/apps/details?id=com.AaranyaWellness)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Patient-facing wellness app for booking holistic healing therapies. Connects users with certified wellness consultants for treating muscular pain, stress, BP, diabetes through natural therapies.
+
+**Tech Stack:** React Native, Redux, Firebase, REST API
+
+**Key Features:**
+- Book therapy sessions
+- Track wellness progress
+- Access healing resources
+- Personalized health plans
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.AaranyaWellness)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="33%">
 
-### [Aaranya Wellness - Healer](YOUR_IOS_APP_1_URL)
-![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple)
+### 🍃 [Aaranya Wellness - Healer (iOS)](https://apps.apple.com/us/app/aaranya-wellness-healer/id6747748589)
+![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-Feature-rich iOS application built with Swift, offering seamless user experience.
+iOS version of the healer app with native performance and seamless UX for wellness consultants.
 
 **Tech:** Swift, UIKit, CoreData
 
-</td>
-<td width="33%">
-
-### 🤖 [Aaranya Wellness](YOUR_ANDROID_APP_1_URL)
-![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android)
-
-High-performance Android app with modern Material Design and smooth animations.
-
-**Tech:** Kotlin, Jetpack Compose, Room
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">](https://apps.apple.com/us/app/aaranya-wellness-healer/id6747748589)
 
 </td>
 <td width="33%">
 
-### 📲 [OndjangoBay](YOUR_CROSS_PLATFORM_APP_URL)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### 🍃 [Aaranya Wellness (iOS)](https://apps.apple.com/us/app/aaranya-wellness/id6747888428)
+![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-React Native app for both iOS and Android platforms with shared codebase.
+Patient app on iOS for booking natural healing therapies at workplace.
 
-**Tech:** React Native, Redux, Firebase
+**Tech:** Swift, Firebase, REST API
+
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">](https://apps.apple.com/us/app/aaranya-wellness/id6747888428)
 
 </td>
 <td width="33%">
 
-### 📲 [OndjangoBay - vendor](YOUR_CROSS_PLATFORM_APP_URL)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### 🍃 [Aaranya Healer (iOS)](https://apps.apple.com/us/app/aaranya-healer/id6752554015)
+![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-React Native app for both iOS and Android platforms with shared codebase.
+Enhanced healer management app with advanced features for therapy tracking.
 
-**Tech:** React Native, Redux, Firebase
+**Tech:** Swift, SwiftUI, CloudKit
+
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40">](https://apps.apple.com/us/app/aaranya-healer/id6752554015)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛒 E-Commerce Solutions
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ [OndjangoBay - Customer](https://play.google.com/store/apps/details?id=com.ondjangobay.customer)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Full-featured e-commerce marketplace connecting buyers with verified vendors. Shop fashion, electronics, home essentials with secure payments and fast shipping.
+
+**Tech Stack:** React Native, Redux Toolkit, Node.js, MongoDB
+
+**Key Features:**
+- Browse thousands of products
+- Secure multi-gateway payments
+- Real-time order tracking
+- Wishlist & personalized recommendations
+- 24/7 customer support
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.ondjangobay.customer)
+
+</td>
+<td width="50%">
+
+### 💼 [OndjangoBay - Vendor](https://play.google.com/store/apps/details?id=com.ondjangobay.vendor)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Powerful vendor management platform for online sellers. Manage products, track orders, monitor inventory, and analyze sales performance.
+
+**Tech Stack:** React Native, Redux, Express.js, MongoDB
+
+**Key Features:**
+- Product catalog management
+- Real-time order notifications
+- Inventory tracking & alerts
+- Sales analytics dashboard
+- Revenue reporting
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.ondjangobay.vendor)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📊 Enterprise & Productivity Apps
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 [Farmers Survey](https://play.google.com/store/apps/details?id=com.farmersurvey)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Data collection platform for agricultural sector. Conduct surveys, gather feedback, and analyze farming practices with offline support.
+
+**Tech Stack:** React Native, Firebase, Express.js
+
+**Key Features:**
+- Custom survey creation
+- Offline data collection
+- Real-time response tracking
+- Multi-language support
+- Data visualization & export
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.farmersurvey)
+
+</td>
+<td width="50%">
+
+### 👥 [Employee Track](https://play.google.com/store/apps/details?id=com.employeetrack)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Comprehensive employee management solution for businesses. Track activities, monitor attendance, assign tasks, and manage projects.
+
+**Tech Stack:** React Native, Redux, Node.js, MySQL
+
+**Key Features:**
+- Attendance monitoring
+- Task assignment & tracking
+- Project progress management
+- Performance analytics
+- Issue reporting system
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.employeetrack)
 
 </td>
 </tr>
@@ -239,9 +376,25 @@ const vipin = {
         tools: ["Git", "Webpack", "Babel", "Postman", "Figma"]
     },
     architecture: ["Microservices", "RESTful APIs", "Single Page Applications", "Progressive Web Apps"],
+    publishedApps: {
+        android: 6,
+        iOS: 3,
+        total: 9
+    },
     currentFocus: "Building scalable full-stack applications and mobile experiences"
 };
 ```
+
+---
+
+## 🎯 Key Achievements
+
+- 📱 **9+ Published Apps** across iOS and Android platforms
+- 🏥 **Healthcare Solutions** serving 300+ wellness consultants
+- 🛍️ **E-Commerce Platform** with dual-sided marketplace
+- 🌾 **AgriTech Innovation** with offline-first data collection
+- 👥 **Enterprise Solutions** for employee management
+- ⭐ **3+ Years** of consistent full-stack development
 
 ---
 
