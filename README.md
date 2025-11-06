@@ -360,6 +360,7 @@ Comprehensive employee management solution for businesses. Track activities, mon
 ## 💼 What I Do
 
 javascript
+
 const vipin = {
     code: ["JavaScript", "TypeScript", "Swift", "Kotlin", "Python"],
     technologies: {
@@ -389,7 +390,7 @@ const vipin = {
 
 ## 🎯 Key Achievements
 
-- 📱 *9+ Published Apps* across iOS and Android platforms
+- 📱 *15+ Published Apps* across iOS and Android platforms
 - 🏥 *Healthcare Solutions* serving 300+ wellness consultants
 - 🛍️ *E-Commerce Platform* with dual-sided marketplace
 - 🌾 *AgriTech Innovation* with offline-first data collection
