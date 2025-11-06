@@ -119,7 +119,7 @@ Hi there! I'm a passionate and dedicated developer with expertise in the **MERN 
 <tr>
 <td width="33%">
 
-### 🍎 [iOS App Name 1](YOUR_IOS_APP_1_URL)
+### 🍎 [Aaranya Wellness _ Healer](YOUR_IOS_APP_1_URL)
 ![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple)
 
 Feature-rich iOS application built with Swift, offering seamless user experience.
