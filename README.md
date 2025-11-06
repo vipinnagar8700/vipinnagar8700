@@ -119,7 +119,7 @@ Hi there! I'm a passionate and dedicated developer with expertise in the **MERN 
 <tr>
 <td width="33%">
 
-### 🍎 [Aaranya Wellness _ Healer](YOUR_IOS_APP_1_URL)
+### [Aaranya Wellness - Healer](YOUR_IOS_APP_1_URL)
 ![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple)
 
 Feature-rich iOS application built with Swift, offering seamless user experience.
@@ -129,7 +129,7 @@ Feature-rich iOS application built with Swift, offering seamless user experience
 </td>
 <td width="33%">
 
-### 🤖 [Android App Name 1](YOUR_ANDROID_APP_1_URL)
+### 🤖 [Aaranya Wellness](YOUR_ANDROID_APP_1_URL)
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android)
 
 High-performance Android app with modern Material Design and smooth animations.
@@ -139,7 +139,18 @@ High-performance Android app with modern Material Design and smooth animations.
 </td>
 <td width="33%">
 
-### 📲 [Cross-Platform App](YOUR_CROSS_PLATFORM_APP_URL)
+### 📲 [OndjangoBay](YOUR_CROSS_PLATFORM_APP_URL)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+React Native app for both iOS and Android platforms with shared codebase.
+
+**Tech:** React Native, Redux, Firebase
+
+</td>
+<td width="33%">
+
+### 📲 [OndjangoBay - vendor](YOUR_CROSS_PLATFORM_APP_URL)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
